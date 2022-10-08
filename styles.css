@@ -5,7 +5,7 @@
     border: 7px solid red;
 }
 #first_div{
-    background-color: rgb(245, 245, 214);
+    background-color: rgb(213, 24, 141);
     border: 10px groove green;
     /* position: relative; */
     height: 1900px;
@@ -35,7 +35,7 @@
     font-size: 30px;
     position: relative;
     top: -168px;
-    right: -780px;
+    right: -920px;
 }
 #circle{
     width: 450px;
